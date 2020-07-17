@@ -1,4 +1,4 @@
-### Hi there 👋 😄 
+# Hi, I'm Praneeth 👋 😄 
 
 <img src="https://raw.githubusercontent.com/polupraneeth/polupraneeth/master/gh-header-image-cropped.png" alt="banner that says Praneeth Polu - Web Developer, Data analyst and community organizer alongside a cartoon illustration of Praneeth">
 I'm a Web Developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include WordPress, ReactJS and Jamstack (JavaScript, APIs + Markup). 
